@@ -6,7 +6,11 @@
 ###### h6
 
 **bold**
-
 *italic*
-
 ***both***
+
+* unordered
+* list
+
+1. ordered
+2. list
